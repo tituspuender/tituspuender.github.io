@@ -11,27 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate in Version Control Theory, Aalto University, Finland, 2028 (expected)
+* Legal Studies at Humboldt-University Berlin, Germany, 2023
+  * First Legal State Examination
+  * Specialization: Law and Digital Transformation
+  * Thesis: Monopolization of Digital Markets.
+* Spanish Law Studies (Erasmus), Universidad Autónoma de Madrid, Spain
+  * Courses (with examinations) in Spanish Law of Obligations, Competition Law, and Intellectual Property Law
+  * Total of 25 ECTS points.
+* Music Technology Diploma at the British and Irish Modern Music Institute (BIMM), UK
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 09/2024: Doctoral Researcher at Aalto University, Finland
+  * Department of Computer Science
+  * Supervised by Assistant Professor Corinna Coupette
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-2024: Research Assistant at YPOG, Berlin, Germany
+  * Department: Legal Technology & Operations
+  * Development of Legal Technology Software
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2019-2022: Working Student at BMG Rights Management, Berlin, Germany
+  * BMG-Label “Modern Recordings“ (Classic, Jazz & Electronic), Social Media Management
+  * Working Student in the Music Supervision department
+  * Internship in the Legal & Business Affairs department
+
+<!---  
 Skills
 ======
 * Skill 1
@@ -58,7 +63,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-supervision of student research projects
+* Group leader at the Digital Humanities Hackthon 2025, University of Helsinki

@@ -1,11 +1,26 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a PhD candidate at the Computer Science Department at Aalto University. My research is interdisciplinary between the fields of law and computer science. I aim to leverage computational approaches to analyze legal
+semantics and decision-making processes. Currently, my focus is on studying law as a complex system through the
+lens of network science, as well as on using machine learning to extract relevant information from this
+complex system. My research  deals with the specifics of legal language, the legal system itself, and with
+legislative and judicial procedures. Ultimately, I aim to translate my findings into tools that can strengthen
+democracies.
+
+Alltough coding has been a passion for a very long time, I spent most of my academic career (so far) studying law at the Humboldt-University of Berlin. There, I thinking about law and competition within digital markets. I successfully optained a law degree in September 2023. Since then, I have been deepening my knowledge of computing, data science, and programming—both - through working at the software team of a law firm and by completing a full-time bootcamp in Data Science.
+
+Besides Coding and Law, I have a big passion for music. I love to compose, produce, and perform electronic music, aiming for a new sound between synthetic and classical music. To find out more about this - and listen - feel free to check out the [Titus Flavius Spotify Page](https://open.spotify.com/artist/4pSvvLpY4sQ6DLzqfeH92F?si=aRsuefXuRJa0XBwz_P_WJA).
+
+Work with me!
+======
+Wether you're interested in music, law, coding for democracies, or other nice ideas, please do contact me free at [This mail](titus.puender@aalto.fi) or on [LinkedIn](https://www.linkedin.com/in/tituspuender/)
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
