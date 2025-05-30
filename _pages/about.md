@@ -15,4 +15,4 @@ Besides coding and law, I am passionate about music and related creative fields.
 
 Work with me!
 ======
-Wether you're interested in music, law, coding, or other fun ideas, please do contact me at [This mail](titus.puender@aalto.fi) or on [LinkedIn](https://www.linkedin.com/in/tituspuender/).
+Wether you're interested in music, law, coding, or other fun ideas, please do contact me at [titus.puender@aalto.fi](mailto:titus.puender@aalto.fi) or on [LinkedIn](https://www.linkedin.com/in/tituspuender/).
