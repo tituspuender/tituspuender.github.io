@@ -15,10 +15,10 @@ Education
 * Legal Studies at Humboldt-University Berlin, Germany, 2023
   * First Legal State Examination
   * Specialization: Law and Digital Transformation
-  * Thesis: Monopolization of Digital Markets.
+  * Thesis: Monopolization of Digital Markets
 * Spanish Law Studies (Erasmus), Universidad Autónoma de Madrid, Spain
   * Courses (with examinations) in Spanish Law of Obligations, Competition Law, and Intellectual Property Law
-  * Total of 25 ECTS points.
+  * Total of 25 ECTS points
 * Music Technology Diploma at the British and Irish Modern Music Institute (BIMM), UK
 
 Work experience
