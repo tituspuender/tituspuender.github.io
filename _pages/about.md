@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,3 +16,10 @@ Besides coding and law, I am passionate about music and related creative fields.
 Work with me!
 ======
 Wether you're interested in music, law, coding, or other fun ideas, please do contact me at [titus.puender@aalto.fi](mailto:titus.puender@aalto.fi) or on [LinkedIn](https://www.linkedin.com/in/tituspuender/).
+
+
+Talks & Presentations
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
