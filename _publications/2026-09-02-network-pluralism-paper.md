@@ -1,0 +1,13 @@
+---
+title: "The power of Network Pluralism: multi-perspective modeling of heterogeneous legal document networks"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-09-02-network-pluralism-paper
+excerpt: 'We introduce Network Pluralism as a conceptual framework to leverage multi-perspectivity in network science and demonstrate its utility through a case study on the German legal system.'
+date: 2026-09-02
+venue: 'The European Physical Journal B'
+paperurl: 'https://link.springer.com/content/pdf/10.1140/epjb/s10051-026-01178-3.pdf'
+citation: 'Pünder, T., Coupette, C., The power of Network Pluralism: multi-perspective modeling of heterogeneous legal document networks. Eur. Phys. J. B 99, 130 (2026).'
+---
+
+Insights are relative—influenced by a range of factors such as assumptions, scopes, or methods that together define a research perspective. In normative and empirical fields alike, this insight has led to the conclusion that no single perspective can generate complete knowledge. As a response, epistemological pluralism mandates that researchers consider multiple perspectives simultaneously to obtain a holistic understanding of their phenomenon under study. Translating this mandate to network science, our work introduces Network Pluralism as a conceptual framework that leverages multi-perspectivity to yield more complete, meaningful, and robust results. We develop and demonstrate the benefits of this approach via a hands-on analysis of complex legal systems, constructing a network space from references across documents from different branches of government as well as including organizational hierarchy above and fine-grained structure below the document level. Leveraging the resulting heterogeneity in a multi-network analysis, we show how complementing perspectives can help contextualize otherwise high-level findings, how contrasting several networks derived from the same data enables researchers to learn by difference, and how relating metrics to perspectives may increase the transparency and robustness of network-analytical results. To analyze a space of networks as perspectives, researchers need to map dimensions of variation in a given domain to network-modeling decisions and network-metric parameters. While this remains a challenging and inherently interdisciplinary task, our work acts as a blueprint to facilitate the broader adoption of Network Pluralism in domain-driven network research.

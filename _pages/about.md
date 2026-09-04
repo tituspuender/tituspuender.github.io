@@ -18,6 +18,12 @@ Work with me!
 Wether you're interested in music, law, coding, or other fun ideas, please do contact me at [titus.puender@aalto.fi](mailto:titus.puender@aalto.fi) or on [LinkedIn](https://www.linkedin.com/in/tituspuender/).
 
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
 Talks & Presentations
 ======
   <ul>{% for post in site.talks reversed %}

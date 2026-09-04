@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Version Control Theory, Aalto University, Finland, 2028 (expected)
+
+* Ph.D Candidate in Legal Network Sciene, Aalto University, Finland, 2028 (expected)
 * Legal Studies at Humboldt-University Berlin, Germany, 2023
   * First Legal State Examination
   * Specialization: Law and Digital Transformation
@@ -23,6 +24,7 @@ Education
 
 Work experience
 ======
+
 * Since 09/2024: Doctoral Researcher at Aalto University, Finland
   * Department of Computer Science
   * Supervised by Assistant Professor Corinna Coupette
@@ -67,5 +69,8 @@ Teaching
 
 Service and leadership
 ======
+
+* Teaching Assistant
+  * Technology and Power, 2026, Aalto University
 * Co-supervision of student research projects
-* Group leader at the Digital Humanities Hackthon 2025, University of Helsinki
+* Group leader at the Digital Humanities Hackathon 2025, University of Helsinki
